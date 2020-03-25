@@ -6,9 +6,7 @@ A mern stack application designed to help users visualize all their tasks in one
 
 ## Description
 
-A web app that helps users visualize their homework, exams and projects all in one place. You
-can create boards with multiple columns. You can add tasks under each column (they look like cards) and drag tasks across
-the boards. In each of the tasks cards you can set deadlines, add description, tag, and/or attachment. All tasks with deadlines will then be added to the calendar view where you are able to drag the tasks around to change the deadline if needed or click on the card to make any updates.
+An application to track and visualize all your tasks! This application allows for users create multiple boards in which each boards has a customized number of columns. Within the columns you can add your tasks into cards which you can then drag between the columns. These cards are where you can add the tasks description, deadline, tag, and/or attachment. If your task happens to have a deadline, it will appear when toggling over to the calendar view. You then have the option to move around the card within the calendar to change the deadline or click on it to view/edit.
 
 Dashboard view:
 ![image](https://user-images.githubusercontent.com/37638884/77557696-6f4ec280-6e90-11ea-9608-e221f26d7d66.png)
@@ -22,12 +20,12 @@ Calendar view:
 
 ## Technologies used
 
-* MySQL
-* Firebase
-* Express.js
-* Node.js
-* jQuery
-* Bootstrap
+* Mongo
+* Express
+* React
+* Node
+* Material UI
+* AWS
 
 ## Website
 
