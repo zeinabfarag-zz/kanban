@@ -25,7 +25,7 @@ Calendar view:
 * React
 * Node
 * Material UI
-* AWS
+* AWS S3
 
 ## Website
 
