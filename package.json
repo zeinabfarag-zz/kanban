@@ -1,10 +1,11 @@
 {
-  "name": "server",
+  "name": "kanban",
   "version": "0.0.0",
   "private": true,
   "engines": {
     "node": "13.8.0"
   },
+  "main": "app.js",
   "scripts": {
     "dev": "nodemon ./bin/www",
     "debug": "nodemon  --inspect ./bin/www",
