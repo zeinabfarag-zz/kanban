@@ -17,13 +17,11 @@ const PORT = process.env.PORT || "3001";
 const app = express();
 require("./database");
 
-app.use(express.static(path.join(__dirname, "client", "build")));
-
 app.use(logger("dev"));
 app.use(json());
 app.use(urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(join(__dirname, "public")));
+app.use(express.static(path.join(__dirname, "client", "build")));
 
 app.use("/user", userRouter);
 app.use("/dashboards", dashboardRouter);
