@@ -10,7 +10,7 @@
     "dev": "nodemon app.js",
     "debug": "nodemon  --inspect app.js",
     "test": "NODE_ENV=test ./node_modules/.bin/mocha --exit --timeout 30000",
-    "start": "npm install && node app.js",
+    "start": "node app.js",
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "dependencies": {
