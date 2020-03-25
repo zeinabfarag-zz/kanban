@@ -31,6 +31,6 @@ Calendar view:
 
 https://kanbanforme.herokuapp.com/signin
 
---- Demo account ---
+--- Demo account ---  
 email : demo@gmail.com
 password: 123456
