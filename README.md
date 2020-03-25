@@ -14,10 +14,10 @@ Dashboard view:
 ![image](https://user-images.githubusercontent.com/37638884/77557696-6f4ec280-6e90-11ea-9608-e221f26d7d66.png)
 
 Card view:
-![image](https://user-images.githubusercontent.com/37638884/77557720-77a6fd80-6e90-11ea-9a83-5a08d99a04fe.png)
+![image](https://user-images.githubusercontent.com/37638884/77557549-43cbd800-6e90-11ea-9c54-b40b9a51896d.png)
 
 Calendar view:
-![image](https://user-images.githubusercontent.com/37638884/77557549-43cbd800-6e90-11ea-9c54-b40b9a51896d.png)
+![image](https://user-images.githubusercontent.com/37638884/77557720-77a6fd80-6e90-11ea-9a83-5a08d99a04fe.png)
 
 
 ## Technologies used
