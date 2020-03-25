@@ -29,9 +29,4 @@ Calendar view:
 
 ## Website
 
-https://regardeh.herokuapp.com/
-
-## Authors
-
-
-
+https://kanbanforme.herokuapp.com/signin
